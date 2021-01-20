@@ -496,6 +496,7 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
+    manifest_android.hardware.drm@1.2-service.widevine \
     PowerOffAlarm \
     QtiTelephonyService \
     datastatusnotification \
